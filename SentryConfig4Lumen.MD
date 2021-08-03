@@ -1,6 +1,6 @@
-# ERP Lumen 接入 Sentry 指引
+# Lumen 接入 Sentry 指引
 
-## 项目部署 Sentry
+## 项目配置
 
 1. 安装 Sentry SDK
 

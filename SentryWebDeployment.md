@@ -1,5 +1,16 @@
 # Sentry Web 部署
 
+## Requirements
+
+1. Docker 19.03.6+
+1. Compose 1.24.1+
+1. 4 CPU Cores
+1. 8 GB RAM
+1. 20 GB Free Disk Space
+
+
+## Setup
+
 1. 启动基础数据服务 `redis & postgres`
 
     ```shell

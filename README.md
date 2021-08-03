@@ -2,5 +2,5 @@
 
 ## Contents
 
-1. Sentry Server Deploy
+1. [Sentry Server Deploy](./SentryWebDeployment.md)
 
